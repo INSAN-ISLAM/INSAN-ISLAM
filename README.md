@@ -9,6 +9,6 @@ I am **Insan Islam Poran**. I'm currently working on Mobile Development. As mobi
 - Database: MySQL, SQLite
 - Strong knowledge in RESTful web-services/API
 - Good problem solving skill
--Proper knowledge of Github
--Know about business analysis
+- Proper knowledge of Github
+- Know about business analysis
 

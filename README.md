@@ -3,8 +3,6 @@
 
 I am **Insan Islam Poran**. I'm currently working on Mobile Development. As mobile app devleoper I use Flutter which is a framework for cross platform native app development and I really love it.and use in your profile.
 
-Here are some ideas to get you started:
-
 ### Skills I have
 - Languages : C, Dart, Java,C#,Html,Css,php,
 - Frameworks : Flutter, Bootstrap

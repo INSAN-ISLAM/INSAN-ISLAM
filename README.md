@@ -5,7 +5,7 @@ I am **Insan Islam Poran**. I'm currently working on Mobile Development. As mobi
 
 ### Skills I have
 - Languages : C, Dart, Java,C#,Html,Css,php,
-- Frameworks : Flutter, Bootstrap
+- Frameworks : Flutter, Bootstrap ,laravel
 - Database: MySQL, SQLite
 - Strong knowledge in RESTful web-services/API
 - Good problem solving skill

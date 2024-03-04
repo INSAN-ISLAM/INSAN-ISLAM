@@ -7,8 +7,8 @@ I am **Insan Islam Poran**. I Want To work on Mobile Development. As mobile app 
 
 ### Skills I have
 - Languages : C, Dart, Java,C#,Html,Css,php,
-- Frameworks : Flutter, Bootstrap ,laravel,shared_preferences.
-- Database: MySQL, SQLite
+- Frameworks : Flutter, Bootstrap ,laravel
+- Database: MySQL, SQLite,shared_preferences.
 - Strong knowledge in RESTful web-services/API
 - Good problem solving skill
 - Proper knowledge of Github
